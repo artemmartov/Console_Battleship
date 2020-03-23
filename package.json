@@ -1,0 +1,28 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "В этом задании мы смоделируем простую реальную систему на JavaScript. Мы собираемся создать интерактивный Морской бой в командной строке. Полные правила находятся на [википедии](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%BE%D0%B9_(%D0%B8%D0%B3%D1%80%D0%B0)), но вот сокращенная версия от [Samuel Bednar](http://en.wikipedia.org/wiki/File:Battleships_Paper_Game.svg):",
+  "main": "battleship.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemmartov/battleship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemmartov/battleship/issues"
+  },
+  "homepage": "https://github.com/artemmartov/battleship#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  },
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  }
+}
